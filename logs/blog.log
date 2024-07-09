@@ -1,0 +1,29 @@
+2024-06-28 23:58:18 | ERROR | Cannot read properties of undefined (reading '_id')
+2024-06-29 00:32:03 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2024-06-29 00:32:20 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2024-06-29 00:34:15 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2024-06-29 00:34:46 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2024-06-29 00:35:48 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2024-06-29 00:37:00 | ERROR | blog.save is not a function
+2024-06-29 01:00:55 | INFO | undefined
+2024-06-29 01:03:04 | INFO | undefined

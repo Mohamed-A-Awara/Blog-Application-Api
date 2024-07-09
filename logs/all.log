@@ -1,0 +1,228 @@
+2024-06-27 14:22:15 | INFO | 3waraaaaaa
+2024-06-27 14:24:29 | INFO | 3waraaaaaa
+2024-06-27 15:06:52 | WARN | "email" is required
+2024-06-27 15:07:11 | WARN | "password" is required
+2024-06-27 15:07:25 | INFO | undefined
+2024-06-27 15:21:52 | INFO | 3waraaaaaa
+2024-06-27 15:23:21 | INFO | undefined
+2024-06-27 15:23:49 | INFO | mohamed12@gmail.com
+2024-06-27 15:23:49 | INFO | mohamed12@gmail.com
+2024-06-27 15:23:50 | INFO | mohamed12@gmail.com
+2024-06-27 15:27:01 | INFO | mohamed12@gmail.com
+2024-06-27 15:38:35 | INFO | mohamed12@gmail.com
+2024-06-27 15:44:28 | INFO | mohamed12@gmail.com
+2024-06-27 23:57:42 | INFO | {}
+2024-06-28 00:07:06 | INFO | mohamed12@gmail.com
+2024-06-28 03:34:50 | ERROR | Cannot access 'token' before initialization
+2024-06-28 03:35:01 | INFO | mohamed12@gmail.com
+2024-06-28 03:35:03 | ERROR | Cannot access 'token' before initialization
+2024-06-28 03:35:54 | INFO | mohamed12@gmail.com
+2024-06-28 03:36:57 | ERROR | req.cookies.access_token is not a function
+2024-06-28 03:38:49 | ERROR | Cannot read properties of undefined (reading 'split')
+2024-06-28 03:38:52 | ERROR | Cannot read properties of undefined (reading 'split')
+2024-06-28 03:39:12 | INFO | mohamed12@gmail.com
+2024-06-28 03:43:48 | ERROR | jwt must be provided
+2024-06-28 03:43:57 | INFO | mohamed12@gmail.com
+2024-06-28 23:55:04 | INFO | mohamed12@gmail.com
+2024-06-28 23:58:12 | ERROR | jwt must be provided
+2024-06-28 23:58:16 | INFO | mohamed12@gmail.com
+2024-06-28 23:58:18 | ERROR | Cannot read properties of undefined (reading '_id')
+2024-06-28 23:59:44 | INFO | mohamed12@gmail.com
+2024-06-29 00:08:43 | ERROR | jwt must be provided
+2024-06-29 00:08:47 | INFO | mohamed12@gmail.com
+2024-06-29 00:31:54 | ERROR | jwt must be provided
+2024-06-29 00:31:58 | INFO | mohamed12@gmail.com
+2024-06-29 00:32:03 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2024-06-29 00:32:20 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2024-06-29 00:34:15 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2024-06-29 00:34:46 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2024-06-29 00:35:42 | ERROR | jwt must be provided
+2024-06-29 00:35:45 | INFO | mohamed12@gmail.com
+2024-06-29 00:35:48 | ERROR | Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
+2024-06-29 00:37:00 | ERROR | blog.save is not a function
+2024-06-29 00:39:26 | ERROR | jwt must be provided
+2024-06-29 00:39:30 | INFO | mohamed12@gmail.com
+2024-06-29 00:44:53 | ERROR | jwt must be provided
+2024-06-29 00:44:57 | INFO | mohamed12@gmail.com
+2024-06-29 01:00:20 | ERROR | jwt must be provided
+2024-06-29 01:00:25 | INFO | mohamed12@gmail.com
+2024-06-29 01:00:55 | INFO | undefined
+2024-06-29 01:02:48 | INFO | mohamed12@gmail.com
+2024-06-29 01:03:04 | INFO | undefined
+2024-06-29 03:36:00 | INFO | {}
+2024-06-29 03:36:08 | INFO | {}
+2024-06-29 03:37:36 | INFO | hany
+2024-06-29 03:38:32 | INFO | hany@gmail.com
+2024-06-29 03:48:25 | INFO | hany@gmail.com
+2024-06-29 03:48:31 | INFO | hany@gmail.com
+2024-07-04 08:25:19 | WARN | "confirmPass" is not allowed
+2024-07-04 08:26:56 | WARN | "confirmPass" is not allowed
+2024-07-04 08:27:10 | WARN | "confirmPass" is not allowed
+2024-07-04 08:30:22 | WARN | "confirmPass" is not allowed
+2024-07-04 08:33:34 | INFO | sara
+2024-07-04 09:03:58 | INFO | mohamed3wara@gmail.com
+2024-07-04 09:04:35 | INFO | mohamed3wara@gmail.com
+2024-07-04 11:46:02 | INFO | mohamed3wara@gmail.com
+2024-07-04 11:46:21 | INFO | mohamed3wara@gmail.com
+2024-07-04 11:57:52 | INFO | mohamed3wara@gmail.com
+2024-07-04 12:13:00 | ERROR | jwt must be provided
+2024-07-04 12:13:00 | ERROR | jwt must be provided
+2024-07-04 12:13:20 | ERROR | jwt must be provided
+2024-07-04 12:13:20 | ERROR | jwt must be provided
+2024-07-04 12:13:44 | ERROR | jwt must be provided
+2024-07-04 12:13:44 | ERROR | jwt must be provided
+2024-07-04 12:13:54 | ERROR | jwt must be provided
+2024-07-04 12:13:54 | ERROR | jwt must be provided
+2024-07-04 12:13:55 | ERROR | jwt must be provided
+2024-07-04 12:13:55 | ERROR | jwt must be provided
+2024-07-04 12:13:55 | ERROR | jwt must be provided
+2024-07-04 12:13:55 | ERROR | jwt must be provided
+2024-07-04 12:14:24 | ERROR | jwt must be provided
+2024-07-04 12:14:24 | ERROR | jwt must be provided
+2024-07-04 12:14:25 | ERROR | jwt must be provided
+2024-07-04 12:14:25 | ERROR | jwt must be provided
+2024-07-04 12:17:42 | ERROR | jwt must be provided
+2024-07-04 12:17:55 | ERROR | jwt must be provided
+2024-07-04 12:17:58 | ERROR | jwt must be provided
+2024-07-04 12:18:01 | ERROR | jwt must be provided
+2024-07-04 12:18:04 | ERROR | jwt must be provided
+2024-07-04 12:18:26 | ERROR | jwt must be provided
+2024-07-04 12:18:26 | ERROR | jwt must be provided
+2024-07-04 12:18:29 | ERROR | jwt must be provided
+2024-07-04 12:18:29 | ERROR | jwt must be provided
+2024-07-04 12:18:32 | ERROR | jwt must be provided
+2024-07-04 12:18:40 | ERROR | jwt must be provided
+2024-07-04 12:18:42 | ERROR | jwt must be provided
+2024-07-04 12:18:48 | ERROR | jwt must be provided
+2024-07-04 12:19:02 | ERROR | jwt must be provided
+2024-07-04 12:20:52 | ERROR | jwt must be provided
+2024-07-04 12:20:58 | ERROR | jwt must be provided
+2024-07-04 12:20:58 | ERROR | jwt must be provided
+2024-07-04 12:21:19 | ERROR | jwt must be provided
+2024-07-04 12:21:56 | ERROR | jwt must be provided
+2024-07-04 12:21:59 | ERROR | jwt must be provided
+2024-07-04 12:22:04 | ERROR | jwt must be provided
+2024-07-04 12:22:06 | ERROR | jwt must be provided
+2024-07-04 12:22:28 | ERROR | jwt must be provided
+2024-07-04 12:22:30 | ERROR | jwt must be provided
+2024-07-04 12:22:35 | ERROR | jwt must be provided
+2024-07-04 12:22:38 | ERROR | jwt must be provided
+2024-07-04 12:24:01 | ERROR | jwt must be provided
+2024-07-04 12:24:01 | ERROR | jwt must be provided
+2024-07-04 12:28:48 | ERROR | jwt must be provided
+2024-07-04 12:28:48 | ERROR | jwt must be provided
+2024-07-04 12:29:32 | ERROR | jwt must be provided
+2024-07-04 12:29:32 | ERROR | jwt must be provided
+2024-07-04 12:30:16 | INFO | mohamed3wara@gmail.com
+2024-07-04 12:30:44 | INFO | mohamed3wara@gmail.com
+2024-07-04 12:31:32 | INFO | mohamed3wara@gmail.com
+2024-07-04 12:31:36 | INFO | mohamed3wara@gmail.com
+2024-07-04 12:31:45 | INFO | mohamed3wara@gmail.com
+2024-07-04 12:33:48 | ERROR | jwt must be provided
+2024-07-04 12:33:48 | ERROR | jwt must be provided
+2024-07-04 12:33:57 | INFO | mohamed3wara@gmail.com
+2024-07-04 12:36:54 | ERROR | jwt must be provided
+2024-07-04 12:37:24 | ERROR | jwt must be provided
+2024-07-04 12:37:24 | ERROR | jwt must be provided
+2024-07-04 12:37:40 | ERROR | jwt must be provided
+2024-07-04 12:37:40 | ERROR | jwt must be provided
+2024-07-04 12:37:47 | ERROR | jwt must be provided
+2024-07-04 12:37:47 | ERROR | jwt must be provided
+2024-07-04 12:38:46 | INFO | mohamed3wara@gmail.com
+2024-07-04 12:39:56 | ERROR | jwt must be provided
+2024-07-04 12:39:56 | ERROR | jwt must be provided
+2024-07-04 12:40:06 | ERROR | jwt must be provided
+2024-07-04 12:40:06 | ERROR | jwt must be provided
+2024-07-04 12:40:06 | ERROR | jwt must be provided
+2024-07-04 12:40:06 | ERROR | jwt must be provided
+2024-07-04 12:40:15 | ERROR | jwt must be provided
+2024-07-04 12:40:41 | ERROR | jwt must be provided
+2024-07-04 12:40:43 | ERROR | jwt must be provided
+2024-07-04 12:40:46 | ERROR | jwt must be provided
+2024-07-04 12:40:54 | ERROR | jwt must be provided
+2024-07-04 12:41:09 | ERROR | jwt must be provided
+2024-07-04 12:41:22 | INFO | mohamed3wara@gmail.com
+2024-07-04 12:42:04 | ERROR | jwt must be provided
+2024-07-04 12:42:11 | ERROR | jwt must be provided
+2024-07-04 12:42:13 | ERROR | jwt must be provided
+2024-07-04 12:42:15 | ERROR | jwt must be provided
+2024-07-04 12:42:18 | ERROR | jwt must be provided
+2024-07-04 12:42:18 | ERROR | jwt must be provided
+2024-07-04 12:42:18 | ERROR | jwt must be provided
+2024-07-04 12:42:18 | ERROR | jwt must be provided
+2024-07-04 12:43:13 | ERROR | jwt must be provided
+2024-07-04 12:43:15 | ERROR | jwt must be provided
+2024-07-04 12:43:17 | ERROR | jwt must be provided
+2024-07-04 12:48:15 | ERROR | jwt must be provided
+2024-07-04 12:48:15 | ERROR | jwt must be provided
+2024-07-04 12:48:15 | ERROR | jwt must be provided
+2024-07-04 12:48:15 | ERROR | jwt must be provided
+2024-07-04 12:48:39 | ERROR | jwt must be provided
+2024-07-04 12:48:47 | ERROR | jwt must be provided
+2024-07-07 10:16:57 | ERROR | jwt must be provided
+2024-07-07 10:16:57 | ERROR | jwt must be provided
+2024-07-07 10:16:57 | ERROR | jwt must be provided
+2024-07-07 10:16:57 | ERROR | jwt must be provided
+2024-07-07 10:17:01 | ERROR | jwt must be provided
+2024-07-07 10:17:01 | ERROR | jwt must be provided
+2024-07-07 10:17:01 | ERROR | jwt must be provided
+2024-07-07 10:17:01 | ERROR | jwt must be provided
+2024-07-07 10:17:08 | ERROR | jwt must be provided
+2024-07-07 10:17:08 | ERROR | jwt must be provided
+2024-07-07 10:17:08 | ERROR | jwt must be provided
+2024-07-07 10:17:08 | ERROR | jwt must be provided
+2024-07-07 10:17:23 | ERROR | jwt must be provided
+2024-07-07 10:17:23 | ERROR | jwt must be provided
+2024-07-07 10:17:23 | ERROR | jwt must be provided
+2024-07-07 10:17:23 | ERROR | jwt must be provided
+2024-07-07 10:17:35 | ERROR | jwt must be provided
+2024-07-07 10:17:38 | ERROR | jwt must be provided
+2024-07-07 10:17:40 | ERROR | jwt must be provided
+2024-07-07 10:17:40 | ERROR | jwt must be provided
+2024-07-07 10:17:44 | ERROR | jwt must be provided
+2024-07-07 10:17:44 | ERROR | jwt must be provided
+2024-07-07 10:17:49 | INFO | mohamed3wara@gmail.com
+2024-07-07 10:17:55 | INFO | mohamed3wara@gmail.com
+2024-07-07 10:19:52 | INFO | mohamed3wara@gmail.com
+2024-07-07 10:19:58 | INFO | mohamed3wara@gmail.com
+2024-07-07 10:20:11 | INFO | mohamed3wara@gmail.com
+2024-07-07 10:20:13 | INFO | mohamed3wara@gmail.com
+2024-07-07 10:20:14 | INFO | mohamed3wara@gmail.com
+2024-07-07 10:20:28 | INFO | mohamed3wara@gmail.com
+2024-07-07 10:20:30 | INFO | mohamed3wara@gmail.com
+2024-07-07 10:20:31 | INFO | mohamed3wara@gmail.com
+2024-07-07 10:24:39 | ERROR | jwt must be provided
+2024-07-07 10:24:39 | ERROR | jwt must be provided
+2024-07-07 10:24:39 | ERROR | jwt must be provided
+2024-07-07 10:24:39 | ERROR | jwt must be provided
+2024-07-07 10:24:52 | ERROR | jwt must be provided
+2024-07-07 10:24:52 | ERROR | jwt must be provided
+2024-07-07 10:24:52 | ERROR | jwt must be provided
+2024-07-07 10:24:52 | ERROR | jwt must be provided
+2024-07-07 10:25:16 | ERROR | jwt must be provided
+2024-07-07 10:25:16 | ERROR | jwt must be provided
+2024-07-07 10:25:24 | INFO | mohamed3wara@gmail.com
+2024-07-07 10:25:26 | INFO | mohamed3wara@gmail.com
+2024-07-08 11:48:37 | INFO | mohamed3wara@gmail.com
+2024-07-08 11:49:43 | INFO | aaaaaaa
+2024-07-08 11:50:05 | INFO | amira@gmail.com
