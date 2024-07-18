@@ -26,6 +26,12 @@ app.use(morgan('dev'))
 app.use("/api/blog" , express.static('./Uploads'))
 
 
+// Not Found Request
+app.all('*' , (req, res)=>{
+    res.status(404).send({
+        Msg : "Request Not Found ...🤦‍♂️🤦‍♂️🤦‍♂️"
+    })
+})
 
 
 // LISTEN 
