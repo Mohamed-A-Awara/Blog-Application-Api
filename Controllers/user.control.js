@@ -23,7 +23,7 @@ const UserControllers = {
     updateUser : async(req , res)=>{
         try {
             if (req.file){
-                var imagePath = `/api/user/${req.file.filename}`
+                var imagePath = `/api/blog/${req.file.filename}`
 
             }
             let user  = await User.findByIdAndUpdate(req.user._id ,{...req.body , image : imagePath}  , {new : true})
@@ -84,4 +84,4 @@ const UserControllers = {
         }
     }
 }
-module.exports = UserControllers
+module.exports = UserControllers 
