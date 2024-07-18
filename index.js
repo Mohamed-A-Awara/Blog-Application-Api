@@ -25,6 +25,11 @@ app.use(morgan('dev'))
 // PUBLIC DIRCTORY
 app.use("/api/blog" , express.static('./Uploads'))
 
+app.get('/test' , (req , res )=>{
+    res.send({
+        Msg : "Request Test Done ...🤦‍♂️🤦‍♂️🤦‍♂️"
+    })
+})
 
 // Not Found Request
 app.all('*' , (req, res)=>{
